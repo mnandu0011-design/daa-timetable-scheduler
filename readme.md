@@ -1,4 +1,4 @@
-# Student Timetable Optimizer – Algorithm Explorer
+# Student Timetable Optimizer – Algorithm Explorer.
 
 A full-stack Flask web application that creates and compares student study timetables using four algorithms: Brute Force, Greedy, Dynamic Programming, and Backtracking.
 
